@@ -4,18 +4,10 @@ const Table = ({ sat }) => {
     <table>
       <thead>
         <tr>
-          <th>
-            <td>Name</td>
-          </th>
-          <th>
-            <td>Type of Satellite</td>
-          </th>
-          <th>
-            <td>Launch Date</td>
-          </th>
-          <th>
-            <td>Status</td>
-          </th>
+          <th>Name</th>
+          <th>Type of Satellite</th>
+          <th>Launch Date</th>
+          <th>Status </th>
         </tr>
       </thead>
       <tbody>
